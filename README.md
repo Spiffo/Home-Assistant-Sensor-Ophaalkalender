@@ -1,7 +1,7 @@
 ## Home Assisant sensor component for Ophaalkalender
 
-Provides Home Assistant sensors for multiple Dutch waste collectors using REST API.
-This sensor works with the ophaalkalender.be waste collector.
+Provides Home Assistant sensors for multiple Belgian waste collectors using REST API.
+This sensor works with the ophaalkalender.be waste collection website curated by Fostplus.
 
 ### Install:
 Copy the files in the /custom_components/ophaalkalender/ folder to: [homeassistant]/config/custom_components/ophaalkalender/
