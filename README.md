@@ -1,4 +1,4 @@
-## Home Assisant sensor component for Afvalbeheer
+## Home Assisant sensor component for Ophaalkalender
 
 Provides Home Assistant sensors for multiple Dutch waste collectors using REST API.
 This sensor works with the ophaalkalender.be waste collector.
